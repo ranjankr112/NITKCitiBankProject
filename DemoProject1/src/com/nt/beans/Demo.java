@@ -7,6 +7,6 @@ public class Demo {
 		return new Date();
 	}
 	public void m1() {
-		System.out.println("Demo m1() method");
+		System.out.println("Demo m1() method: 1234");
 	}
 }
